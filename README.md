@@ -1,5 +1,42 @@
 [![license](https://img.shields.io/badge/License-MIT-purple.svg?style=?style=flat-square)](LICENSE) [![database](https://img.shields.io/badge/-14.16.0-white.svg?style=?style=flat-square&logo=node.js)](DATABASE) [![database](https://img.shields.io/badge/Build-Success-brightgreen.svg?style=?style=flat-square&logo=appveyor&logo=mysql)](BUILD)
 
+# How to run the project
+## Developer message
+Please follow below steps to run the project successfully
+
+## 1. Run the backend server
+
+```bash
+cd server
+npm install
+npm run start
+```
+
+Run the server on port `4000`
+
+
+## 2. Run the client
+
+```bash
+cd client
+npm install
+npm run dev
+```
+
+Run the client on port `3000`
+
+So we have two pages
+1. Login page, enter username and password
+2. Dashboard, this page includes the to-do list
+
+> You can add, delete and complete the tasks. You can also logout and it will return you to the login page
+
+
+## End of developer message
+
+<br/>
+
+
 # To-Do App
 
 Build a to-do app.
