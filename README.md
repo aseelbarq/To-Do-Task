@@ -35,8 +35,9 @@ So we have two pages
 ## End of developer message
 
 <br/>
+<hr/>
 
-
+# Original task steps
 # To-Do App
 
 Build a to-do app.
